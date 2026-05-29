@@ -1,7 +1,7 @@
-System.register("bundle://Dlc/_virtual/Dlc",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/Dlc",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/Dlc', 'bundle://Dlc/_virtual/Dlc'); 
+  r('virtual:///prerequisite-imports/Dlc', 'chunks:///_virtual/Dlc'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
